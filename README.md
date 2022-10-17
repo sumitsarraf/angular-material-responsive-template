@@ -2,11 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
+[Live Demo](https://creative-entremet-830455.netlify.app/)
+
 
 ## Screenshot
 
 #### HomePage
-![homepage](src/assets/dashboard.png?raw=true)
+![homepage](src/assets/dashboardpng.png?raw=true)
 
 ## Development server
 
